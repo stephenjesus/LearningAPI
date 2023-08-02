@@ -1,1 +1,1 @@
-# LearningAPI
+An event loop is an endless loop, which waits for tasks, executes them, and then sleeps until it receives more tasks. The event loop executes tasks from the event queue only when the call stack is empty 
